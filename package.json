@@ -1,0 +1,1 @@
+{"description":"A make.fun entry that answers how many browser tabs are open right now with a single honest number, written as plain digits to /output/entry.txt.","license":"MIT","main":"main.ts","name":"how-many-tabs","type":"module","version":"1.0.0"}
